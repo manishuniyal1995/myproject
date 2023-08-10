@@ -28,7 +28,7 @@ background-size: 100% 100%">
 <?php
 $firstname=$_POST['firstname'];
 $email=$_POST['email'];
-$servername = "intel.c1jt86soi8wp.ap-south-1.rds.amazonaws.com";
+$servername = "myapplication.c1jt86soi8wp.ap-south-1.rds.amazonaws.com";
 $username = "intel";
 $password = "intel123";
 $db = "intel";
